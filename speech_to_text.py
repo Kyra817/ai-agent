@@ -1,0 +1,1 @@
+{{$node["HTTP Request"].json["choices"][0]["message"]["content"]}}
