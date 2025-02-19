@@ -1,2 +1,2 @@
-# ai-agent
+# ai-holopet
 AI Pet Hologram
